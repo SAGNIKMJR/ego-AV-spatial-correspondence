@@ -10,7 +10,7 @@ The University of Texas at Austin, FAIR at Meta, University of Utah
 Project website: [https://vision.cs.utexas.edu/projects/ego_av_corr](https://vision.cs.utexas.edu/projects/ego_av_corr)
 
 <p align="center">
-  <img src="concept.png" width="420" height="350">
+  <img src="concept.png" width="500" height="350">
 </p>
 
 ## Abstract
